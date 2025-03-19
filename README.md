@@ -13,8 +13,8 @@ Here are some projects I've worked on:
 - 🚀 **[OpenSteel](https://github.com/azwsd/OpenSteel)** – A web app for opening and displaying DStv files with zoom, pan, and measurement tools.
 
 ### 📫 Connect with Me
-- GitHub: [https://github.com/azwsd]
-- LinkedIn: [https://www.linkedin.com/in/ahmedmora]
+- **[[GitHub](https://github.com/azwsd)]**
+- **[[LinkedIn](https://www.linkedin.com/in/ahmedmora)]**
 
 ---
 
