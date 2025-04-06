@@ -10,7 +10,7 @@ I'm a **Mechanical Engineer** who loves coding and software development. I enjoy
 
 ### 🛠️ Projects
 Here are some projects I've worked on:
-- 🚀 **[OpenSteel](https://github.com/azwsd/OpenSteel)** – A web app for opening and displaying DStv files with zoom, pan, and measurement tools.
+- 🚀 **[OpenSteel](https://github.com/azwsd/OpenSteel)** – A web app for opening and displaying DStv files, and a steel profile library.
 
 ### 📫 Connect with Me
 - **[[LinkedIn](https://www.linkedin.com/in/ahmedmora)]**
