@@ -11,6 +11,7 @@ I'm a **Mechanical Engineer** who loves coding and software development. I enjoy
 ### 🛠️ Projects
 Here are some projects I've worked on:
 - 🚀 **[OpenSteel](https://github.com/azwsd/OpenSteel)** – A web app for handling DSTV files, steel profile library, and nesting engine.
+- 🚀 **[FNC-Fix](https://github.com/azwsd/FNC-Fix)** – A web app for fixing problems with FNC nest files.
 
 ### 📫 Connect with Me
 - **[[LinkedIn](https://www.linkedin.com/in/ahmedmora)]**
