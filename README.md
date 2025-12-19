@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Ahmed Mohamed Ragab!
 
 ### 🚀 About Me
-I'm a **Mechanical Engineer** who loves coding and software development. I enjoy solving problems and creating applications that combine engineering and programming.
+I'm a **Mechanical Engineer** with a strong passion for coding and software development. I enjoy solving real-world engineering problems and building scalable applications that bridge engineering and modern web technologies.
 
 ### 💻 Tech Stack
-- **Languages:** JavaScript, CSS, HTML, C, Python, C++, SQL
-- **Frameworks & Libraries:** Bootstrap, Materialize, Konva, Flask, Jinja, Matplotlib, Seaborn, NumPy, Pandas
-- **Interests:** Computational Engineering, Automation, Web Development, Data Science
+- **Languages:** JavaScript, CSS, HTML, C, Python, C++, SQL  
+- **Web & Backend:** **MERN Stack (MongoDB, Express.js, React, Node.js)**  
+- **Frameworks & Libraries:** Bootstrap, Materialize, Konva, Flask, Jinja, Matplotlib, Seaborn, NumPy, Pandas  
+- **Interests:** Computational Engineering, Automation, Web Development, Full-Stack Development, Data Science
 
 ### 🛠️ Projects
 Here are some projects I've worked on:
@@ -14,8 +15,8 @@ Here are some projects I've worked on:
 - 🚀 **[FNC-Fix](https://github.com/azwsd/FNC-Fix)** – A web app for fixing problems with FNC nest files.
 
 ### 📫 Connect with Me
-- **[[LinkedIn](https://www.linkedin.com/in/ahmedmora)]**
+- **[LinkedIn](https://www.linkedin.com/in/ahmedmora)**
 
 ---
 
-⚡ *Always learning and building cool stuff!*
+⚡ *Always learning, engineering, and building cool stuff!*
